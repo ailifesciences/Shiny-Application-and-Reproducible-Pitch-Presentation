@@ -5,8 +5,10 @@ This Shiny Application has been created which will predict the class of breast c
 
 The shiny appication developed has been published in shiny server at https://ailifesciences.shinyapps.io/BreastCancerPrediction/
 
-To reproduce the shiny application on your local system, you need to install the relevent packages (mlbench, caret, randomForest and ggplot2). The Breast Cancer dataset is obtained from the mlbench R package. The shiny app files- server.R and ui.R are provided in the github repository at https://github.com/ailifesciences/Shiny-Application-and-Reproducible-Pitch-Presentation
+To reproduce the shiny application on your local system, you need to install the relevent packages (mlbench, caret, randomForest and ggplot2). The Breast Cancer 
+dataset is obtained from the mlbench R package. The shiny app files- server.R and ui.R are provided in the github repository at https://github.com/ailifesciences/Shiny-Application-and-Reproducible-Pitch-Presentation
 
 ## How to Run the Application
-
-To run the application, the above mentioned files should be downloaded and kept in a folder and run **run()** function. This would open the application locally in a default browser. On the left side panel there would be the input parameters. The values of the parameters could be set using the sliders provided. On setting the parameter values, the class of the tumour would be shown on the right side of the panel.   
+To run the application, the above mentioned files should be downloaded and kept in a folder and run **run()** function. This would open the application locally 
+in a default browser. On the left side panel there would be the input parameters. The values of the parameters could be set using the sliders provided. On setting
+the parameter values, the class of the tumour would be shown on the right side of the panel.   
